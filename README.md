@@ -13,3 +13,5 @@
 
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white
 )
+
+Desenvolvedor aplicando soluções eficientes e integradas. Estudante de Engenharia de Software (PUCRS) e Técnico em Mecatrônica (IFSul), com forte base em lógica e resolução de problemas. Busco oportunidades para crescer profissionalmente e contribuir para equipes de alto desempenho. 🚀
